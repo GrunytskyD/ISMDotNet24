@@ -1,0 +1,12 @@
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\ДИМКИН КОМП\source\repos\ISMDotNet2\Task4\obj\Debug\netcoreapp3.1\Task4.genruntimeconfig.cache
